@@ -1,13 +1,13 @@
 # Ignore vim swap files
 *.swp
 # Ignore Cacti config
-#include/config.php
+include/config.php
 # Ignore Cacti log files
 log/cacti.log
 # Ignore Cacti rrd files
-#rra/**
+rra/**
 # Ignore Cacti cache files (comment out to commit new directory)
-#cache/**
+cache/**
 
 # cacti-docker newly install label
 install.lock
