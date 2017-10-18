@@ -180,5 +180,5 @@ Several JavaScript based HTML5 Charting packages have been included in Cacti in 
 
 For developers using the Cacti framework, it is important to note that additional controls on logging have been added.  Debug logging can now be controlled at not only a global level, but now per plugin, per device and even per file.
 
-
+---
 
